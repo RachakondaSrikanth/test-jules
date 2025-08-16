@@ -1,0 +1,32 @@
+analysis_type,category,name,keywords,value,sentiment_score,count
+LDA_Topic,Topic_0,Delivery Issues,product didn't receive post like office delivery would delivered 30 shipping,0.25,-0.7,2500
+LDA_Topic,Topic_1,Delayed Delivery,product received haven't yet delivery delivered still time arrived deadline,0.22,-0.6,2200
+LDA_Topic,Topic_2,Waiting Response,received I'am waiting delivered product response one bought arrived order,0.2,-0.5,2000
+LDA_Topic,Topic_3,Missing Items,one received bought two product arrived unit delivered missing ordered,0.18,-0.8,1800
+LDA_Topic,Topic_4,Quality Issues,product arrived came quality it's recommend don't exchange without didn't,0.15,-0.4,1500
+Word_Cloud,delivery,atraso,atraso,1250.0,-1.0,1250
+Word_Cloud,delivery,entrega,entrega,2100.0,0.0,2100
+Word_Cloud,delivery,demora,demora,980.0,-1.0,980
+Word_Cloud,product,produto,produto,3200.0,0.0,3200
+Word_Cloud,product,qualidade,qualidade,890.0,-1.0,890
+Word_Cloud,product,defeito,defeito,650.0,-1.0,650
+Word_Cloud,delivery,prazo,prazo,1450.0,-1.0,1450
+Word_Cloud,service,cancelar,cancelar,720.0,-1.0,720
+Word_Cloud,service,atendimento,atendimento,560.0,-1.0,560
+Word_Cloud,general,problema,problema,1100.0,-1.0,1100
+Word_Cloud,delivery,receber,receber,1800.0,0.0,1800
+Word_Cloud,delivery,chegou,chegou,1650.0,0.0,1650
+Word_Cloud,delivery,esperando,esperando,950.0,-1.0,950
+Word_Cloud,service,devolver,devolver,430.0,-1.0,430
+Word_Cloud,payment,dinheiro,dinheiro,680.0,-1.0,680
+Word_Cloud,general,excelente,excelente,340.0,1.0,340
+Word_Cloud,delivery,rápido,rápido,280.0,1.0,280
+Word_Cloud,general,recomendo,recomendo,220.0,1.0,220
+Word_Cloud,general,satisfeito,satisfeito,180.0,1.0,180
+Word_Cloud,general,perfeito,perfeito,150.0,1.0,150
+Customer_Cluster,Mid-Value Loyalists,Cluster_0,"Size: 2700, AOV: $150.0, Freq: 2.1",2700.0,4.2,2700
+Customer_Cluster,Unhappy Casuals,Cluster_1,"Size: 18000, AOV: $286.0, Freq: 1.0",18000.0,1.97,18000
+Customer_Cluster,One-Time Buyers,Cluster_2,"Size: 79300, AOV: $120.0, Freq: 1.0",79300.0,3.1,79300
+Statistical_Test,Chi-Squared Test,First Delivery vs Repeat Purchase,"p-value: 0.0068, Effect: 22% increase in repeat likelihood",0.0068,,1
+Statistical_Test,ANOVA,Processing Time by Segment,"p-value: 0.0001, Effect: F=45.7",0.0001,,1
+Statistical_Test,T-Test,Top vs Other Sellers SLA,"p-value: 0.0012, Effect: 16.4% vs 9.5%",0.0012,,1

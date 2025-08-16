@@ -1,0 +1,32 @@
+model_type,year,scenario,revenue,ebitda,ufcf,pv_ufcf,metric_name,value
+DCF_Scenario,2018,As-Is,7534343.0,1868376.0,1175252.0,1049332.0,Forecast,7534343
+DCF_Scenario,2019,As-Is,8116039.0,2012626.0,1236903.0,986052.0,Forecast,8116039
+DCF_Scenario,2020,As-Is,6845595.0,1697580.0,1131339.0,805265.0,Forecast,6845595
+DCF_Scenario,2021,As-Is,7444202.0,1846023.0,1131261.0,718937.0,Forecast,7444202
+DCF_Scenario,2022,As-Is,7760395.0,1924433.0,1194703.0,677907.0,Forecast,7760395
+DCF_Scenario,2018,Improved,7641664.0,2009615.0,1277961.0,1141037.0,Forecast,7641664
+DCF_Scenario,2019,Improved,8485223.0,2231455.0,1376857.0,1097622.0,Forecast,8485223
+DCF_Scenario,2020,Improved,7358603.0,1935175.0,1286954.0,916028.0,Forecast,7358603
+DCF_Scenario,2021,Improved,8227129.0,2163581.0,1332446.0,846793.0,Forecast,8227129
+DCF_Scenario,2022,Improved,8817779.0,2318911.0,1445117.0,819998.0,Forecast,8817779
+Sensitivity,2024,Base Case,,,,,WACC_10%,16619607
+Sensitivity,2024,Base Case,,,,,WACC_12%,13257716
+Sensitivity,2024,Base Case,,,,,WACC_14%,11019333
+Sensitivity,2024,Base Case,,,,,Growth_1.5%,12815773
+Sensitivity,2024,Base Case,,,,,Growth_2.0%,13257716
+Sensitivity,2024,Base Case,,,,,Growth_2.5%,13746178
+Sensitivity,2024,Conservative,,,,,Target Achievement_50% of Target,12804017
+Sensitivity,2024,Base Case,,,,,Target Achievement_100% of Target,13257716
+Sensitivity,2024,Optimistic,,,,,Target Achievement_150% of Target,13711414
+Valuation_Method,2024,Low,,,,,DCF (12% WACC),11000000
+Valuation_Method,2024,Mid,,,,,DCF (12% WACC),13257716
+Valuation_Method,2024,High,,,,,DCF (12% WACC),16000000
+Valuation_Method,2024,Low,,,,,Comparable Companies (EV/Revenue),8000000
+Valuation_Method,2024,Mid,,,,,Comparable Companies (EV/Revenue),12000000
+Valuation_Method,2024,High,,,,,Comparable Companies (EV/Revenue),16000000
+Valuation_Method,2024,Low,,,,,Precedent Transactions,10000000
+Valuation_Method,2024,Mid,,,,,Precedent Transactions,14000000
+Valuation_Method,2024,High,,,,,Precedent Transactions,18000000
+Valuation_Method,2024,Low,,,,,Asset-Based,6000000
+Valuation_Method,2024,Mid,,,,,Asset-Based,8000000
+Valuation_Method,2024,High,,,,,Asset-Based,10000000
